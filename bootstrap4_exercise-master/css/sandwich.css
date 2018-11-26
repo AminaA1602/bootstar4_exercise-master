@@ -1,0 +1,88 @@
+.jumbotron {
+  background-image: url('../images/fruit-and-veg.jpg');
+  background-size: cover;
+  border-radius: 0;
+  min-height: 600px;
+  padding: 100px;
+}
+
+.jumbotron h1 {
+  font-family: "Vast Shadow", cursive;
+  color:white;
+}
+
+
+#mission {
+  background-color: rgba(32, 35, 41, 0.9);
+  color: #ddd;
+  padding: 50px 0;
+}
+
+h2 {
+  margin-bottom: 50px;
+}
+
+#colophon p {
+  font-size: 80%;
+  color: grey;
+}
+
+.blockquote footer {
+  font-size: 70%;
+}
+
+.blockquote p {
+  line-height: 1.2;
+}
+
+#buzz {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+#colophon {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+#colophon a {
+  color: grey;
+  text-decoration: underline;
+}
+
+.form-inline label {
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  width: 100%;
+  justify-content: flex-start;
+}
+
+.form-inline input {
+  min-width: 300px;
+  margin-right: 10px;
+}
+
+.navbar {
+  background-color: rgba(32, 35, 41, 0.8);
+}
+
+.bta-twitter {
+  background-color: #1da1f2;
+}
+
+.btn-facebook {
+  background-color: #3b5998;
+}
+
+.btn-pinterest {
+  background-color: #bd081c;
+}
+
+.btn-primary {
+  border-color: transparent;
+}
